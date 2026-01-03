@@ -1,0 +1,34 @@
+# Build artifacts
+*.elf
+*.hex
+*.lss
+*.o
+*.map
+
+# Backups
+backup_*.hex
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Analysis data (keep as examples if needed)
+buzzer_analysis_*.csv
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code (development only)
+.claude/
+CLAUDE.md
