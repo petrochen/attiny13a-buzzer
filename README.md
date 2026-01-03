@@ -281,7 +281,7 @@ If you just want to use the firmware:
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/attiny13a-buzzer.git
+git clone https://github.com/petrochen/attiny13a-buzzer.git
 cd attiny13a-buzzer
 
 # Compile (needs avr-gcc)
